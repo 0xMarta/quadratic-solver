@@ -10,7 +10,7 @@ Zanim uruchomisz program, musisz zainstalować niezbędne biblioteki (NumPy do o
 
 ```bash
 pip install numpy matplotlib
-
+```
 
 ## 📝 Instrukcja wpisywania równania
 
